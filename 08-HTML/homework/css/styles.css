@@ -1,0 +1,23 @@
+h1 {
+  color: cadetblue;
+}
+
+.thirdDiv{
+  background-color: darkmagenta;
+}
+
+#spanId{
+  margin: 50px;
+  font-size: 18px;
+}
+
+#thirdDiv{
+  background-color:antiquewhite;
+  padding: 50px;
+  border:10px solid #bbbbbb;
+}
+
+#thirdDiv img{
+  height: 600px;
+  width: 500px;
+}

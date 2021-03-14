@@ -1,0 +1,6 @@
+
+CALLBACK
+
+Cada vez que se hace uso de algun metodo, ese metodo en si debe tener algun parametro o no
+Ese parametro (si es que la funcion o metodo los tiene) puede ser una variable u objeto.
+CALLBACK es hacer uso de un metodo que tiene como parametro otro METODO

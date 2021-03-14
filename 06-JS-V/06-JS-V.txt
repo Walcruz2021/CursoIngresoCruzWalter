@@ -1,0 +1,9 @@
+
+PROTOTIPOS
+
+Los prototipos son objetos que pueden tener propiedades (funciones y métodos), 
+ademas pueden ser utilizados por otros objetos para heredar sus propiedades
+
+CONSTRUCTOR
+
+metodo que sirve para inicializar o dar valores a un objeto

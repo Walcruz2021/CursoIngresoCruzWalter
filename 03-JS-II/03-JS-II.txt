@@ -1,0 +1,25 @@
+A) FOR es un ciclo repetito que va a funcionar segun las carateristicas que le ingresemos
+Recibe 3 valores a) un valor inicial
+                 b)un valor que marcara el fin del ciclo
+                 c)el tipo de recorrido que va a tener ese valor inicial(a)
+hasta que llegue al valor final(b)  
+EJEMPLO for(let i=0;i<3;i++){
+//dentro de estas llaver va a funcionar cumpliendo los metodos que le ingresemos
+} // i es el valor inicial(a) es decir va a comenzar valiendo (0)
+  // i<3 valor que marcara el fin, es decir se va repetir el ciclo for 3 veces(b)
+  // i++ tipo de recorrido es decir i primero valdra 0, despues 1, luego 2 y al fin 3;
+  (es decir significa que aumentara de a 1)
+
+B) && significa "y". Lo utilizamos por ejemplo en condiciones
+
+a=3
+si (a>6 && a<20) en este caso a=3 y se pregunta si a es mayor que 6 "y" a menor que 20   
+
+C) || a diferencia de && significa O
+
+a=3
+si (a>6 || a<20) en este caso a=3 y se pregunta si a es mayor que 6 "o" a menor que 20
+
+D) "!" tambien se lo utiliza en condiciones para preguntar "si no es"
+
+EJEMPLO  si a!=5    en este caso si A "NO ES IGUAL" QUE 5

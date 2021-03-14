@@ -1,0 +1,25 @@
+OBJETOS:se podria decir que es una coleccion de datos o adjetivos y funciones. 
+Por ejemplo un perro podria ser considerado OBJETO y el mismo
+tendria como adjetivos el tener ojos, cola, patas,etc
+Ademas funciones como por ejemplo comer,saltar,correr,ladrar,etc
+Es decir un PERRO seria un OBJETO que tendria adjetivos y funciones que lo identifican
+
+PROPIEDADES SERIAN ESOS adjetivos QUE IDENTIFICAN AL OBJETO(4 patas,cola,etc)
+METODOS SERIAN ESAS funciones QUE IDENTIFICAN AL OBJETO(ladrar, correr,etc)
+
+
+BUCLE FOR…IN
+
+serviria para recorrer ordenadamente una coleccion de objetos.Si se quiere seguir de
+ejemplo lo del OBJETO perro. Podriamos tener una coleccion de perros, es decir una jauria.
+con este BUCLE FOR recorreriamos esa jauria como si todos los perros estuvieran en fila 
+Comenzariamos por el primero y terminariamos por el ultimo
+
+
+NOTACION CON PUNTOS Y CORCHETES
+
+tantos con los puntos y corchetes accedemos a las propiedades y metodos del OBJETO
+son dos maneras diferentes de escribir con algunas diferencias pero con la similitud 
+que con las dos accedemos a las caracteristicas del OBJETO
+
+perro.ladrar "o" perro[ladrar]
